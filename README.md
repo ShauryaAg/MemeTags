@@ -13,6 +13,13 @@ The model currently trained was trained using realy less amout of data, so first
 
 The tesseract architecture used has a lot of limitations and can only detect text if it is written properly. So, in the future we may use some other algorithm for the OCR purposes to get better results.
 
+#### Prerequisites:
+
+Download and install tesseract architechture using these links [tesseract-ocr-w64-setup-v4.0.0.20181030.exe](https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-v4.0.0.20181030.exe) (64-bit), [tesseract-ocr-w32-setup-v4.0.0.20181030.exe](https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w32-setup-v4.0.0.20181030.exe) (32-bit) or [tesseract-ocr-setup-3.05.02-20180621.exe](https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-setup-3.05.02-20180621.exe), and add Tesseract-OCR directory to the Path. 
+
+Also, install the following libraries: pillow and pytesseract, using '''pip install pillow''' and '''pip install pytesseract'''
+respectively
+
 ## Screeenshot
 
 ![Screenshot of CSV file created](https://github.com/ShauryaAg/MemeTags/blob/master/CSVFileScreenshot.png)

@@ -15,7 +15,7 @@ The tesseract architecture used has a lot of limitations and can only detect tex
 
 ## Screeenshot
 
-![Screenshot of CSV file created](https://github.com/ShauryaAg/MemeTags/CSVFileScreenshot.png)
+![Screenshot of CSV file created](https://github.com/ShauryaAg/MemeTags/blob/master/CSVFileScreenshot.png)
 
 ## Future Scope:
 

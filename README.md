@@ -15,7 +15,7 @@ The tesseract architecture used has a lot of limitations and can only detect tex
 
 ## Screeenshot
 
-![Screenshot of CSV file created]()
+![Screenshot of CSV file created](MemeTags/CSV File Screenshot.png)
 
 ## Fututre Scope:
 

@@ -15,8 +15,8 @@ The tesseract architecture used has a lot of limitations and can only detect tex
 
 ## Screeenshot
 
-![Screenshot of CSV file created](MemeTags/CSV File Screenshot.png)
+![Screenshot of CSV file created](https://github.com/ShauryaAg/MemeTags/CSV File Screenshot.png)
 
-## Fututre Scope:
+## Future Scope:
 
 In the future we may use this application to give recommendations on the basis of the person's likes and dislikes. Also, it will help search engines and to look for certain memes on the basis of search criteria

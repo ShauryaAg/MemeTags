@@ -18,7 +18,13 @@ The tesseract architecture used has a lot of limitations and can only detect tex
 Download and install tesseract architechture using these links [tesseract-ocr-w64-setup-v4.0.0.20181030.exe](https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w64-setup-v4.0.0.20181030.exe) (64-bit), [tesseract-ocr-w32-setup-v4.0.0.20181030.exe](https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-w32-setup-v4.0.0.20181030.exe) (32-bit) or [tesseract-ocr-setup-3.05.02-20180621.exe](https://digi.bib.uni-mannheim.de/tesseract/tesseract-ocr-setup-3.05.02-20180621.exe), and add Tesseract-OCR directory to the Path. 
 
 Also, install the following libraries: pillow and pytesseract, using '''pip install pillow''' and '''pip install pytesseract'''
-respectively
+respectively.
+
+### Instructions:
+
+Create a folder named '''./training_images''' and make sub-directories of the different image classifications in it.
+Next, create a folder named '''./test_images''' and put the images to be classified in that.
+
 
 ## Screeenshot
 

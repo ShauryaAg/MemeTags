@@ -25,6 +25,9 @@ respectively.
 Create a folder named '''./training_images''' and make sub-directories of the different image classifications in it.
 Next, create a folder named '''./test_images''' and put the images to be classified in that.
 
+Now, run the retrain.py file to train the model and run the test.py file to test the model.
+and then run main.py file classify the memes and create the .csv file.
+
 
 ## Screeenshot
 

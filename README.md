@@ -36,4 +36,5 @@ and then run main.py file classify the memes and create the .csv file.
 ## Future Scope:
 
 In the future we may use this application to give recommendations on the basis of the person's likes and dislikes. Also, it will help search engines and to look for certain memes on the basis of search criteria.
+In the future, we may add a feature to classify meme on the basis of type of meme that it is (if it's a dark humor or not OR if it's a programming meme or not and some more categories like this). The way we may implement this is by using NLP on the extracted text.
 

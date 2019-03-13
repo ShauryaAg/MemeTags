@@ -3,13 +3,12 @@ import os
 import tensorflow as tf
 import numpy as np
 import cv2
-import main
 
 # module-level variables ##############################################################################################
 RETRAINED_LABELS_TXT_FILE_LOC = os.getcwd() + "/" + "retrained_labels.txt"
 RETRAINED_GRAPH_PB_FILE_LOC = os.getcwd() + "/" + "retrained_graph.pb"
 
-TEST_IMAGES_DIR = main.ret_dirPath() # Path of the memes directory
+TEST_IMAGES_DIR = os.getcwd() + "/test_images" # Path of the memes directory
 
 
 #######################################################################################################################
